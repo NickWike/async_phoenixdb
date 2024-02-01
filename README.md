@@ -3,7 +3,7 @@
 This project is based on the Apache Software Foundation open source project Apache-Phoenixdb project to transform</br>
  the call implementation of the Avatica protocol in the code from the original synchronous mode to asynchronous call.
 ## How to install
-
+Pypi page: [aiophoenixdb](https://pypi.org/project/aiophoenixdb/)
 ```shell
 pip install aiophoenixdb
 ```

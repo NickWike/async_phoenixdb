@@ -1,0 +1,5 @@
+betterproto>=2.0.0b6
+aiohttp>=3.8.6
+requests-gssapi
+requests~=2.31.0
+gssapi

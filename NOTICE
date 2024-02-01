@@ -1,0 +1,18 @@
+Apache Phoenix -- AioPhoenixDB
+Copyright 2024 Nick Hao
+
+This project is based on the Apache Software Foundation open source project Apache-Phoenixdb project to transform
+ the call implementation of the Avatica protocol in the code from the original synchronous mode to asynchronous call.
+Copyright belongs to Nick Hao.
+
+Tribute:
+    Apache Phoenix -- PhoenixDB
+    Copyright 2020 The Apache Software Foundation
+
+    This product includes software developed by The Apache Software
+    Foundation (http://www.apache.org/).
+
+    This project was originally created by Lukas Lalinsky, copyright 2015.
+
+    This project contains phoenixdb/phoenixdb/sqlalchemy_phoenix.py which is a modification from
+    https://github.com/Pirionfr/pyPhoenix, authored by Dimitri Capitaine, copyright 2017.
